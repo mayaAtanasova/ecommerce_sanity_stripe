@@ -1,18 +1,17 @@
 {
   "root": true,
   "project": {
-    "name": "ecommerce"
+    "name": "ecommerce_test"
   },
   "api": {
-    "projectId": "sottg6a5",
+    "projectId": "ajunm0gz",
     "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
     "@sanity/default-layout",
     "@sanity/default-login",
-    "@sanity/desk-tool",
-    "@sanity/google-maps-input"
+    "@sanity/desk-tool"
   ],
   "env": {
     "development": {
